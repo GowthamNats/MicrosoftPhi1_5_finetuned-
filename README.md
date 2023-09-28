@@ -13,7 +13,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 # phi-1_5-finetuned
 
-This model is a fine-tuned version of [microsoft/phi-1_5](https://huggingface.co/microsoft/phi-1_5) on the None dataset.
+This model is a fine-tuned version of [microsoft/phi-1_5](https://huggingface.co/microsoft/phi-1_5) on a cocktail dataset.
 
 ## Model description
 
